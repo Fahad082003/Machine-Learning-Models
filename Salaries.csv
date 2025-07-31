@@ -1,0 +1,17 @@
+Company,Job,Degree,Salary_more_then_100K
+Google,Sales Execuitve,Bechelors,0
+Google,Sales Execuitve,Masters,0
+Google,Bussiness Manager,Bechelors,1
+Google,Bussiness Manager,Masters,1
+Google,Computer Programmer,Bechelors,0
+Google,Computer Programmer,Masters,1
+abc pharma,Sales Execuitve,Masters,0
+abc pharma,Computer Programmer,Bechelors,0
+abc pharma,Bussiness Manager,Bechelors,0
+abc pharma,Bussiness Manager,Masters,1
+Facebook,Sales Execuitve,Bechelors,1
+Facebook,Sales Execuitve,Masters,1
+Facebook,Bussiness Manager,Bechelors,1
+Facebook,Bussiness Manager,Masters,1
+Facebook,Computer Programmer,Bechelors,1
+Facebook,Computer Programmer,Masters,1
